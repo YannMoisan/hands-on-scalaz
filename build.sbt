@@ -2,7 +2,7 @@ name := """hands-on-scalaz"""
 
 version := "1.0"
 
-scalaVersion := "2.11.12"
+scalaVersion := "2.12.12"
 
 scalacOptions += "-Ypartial-unification"
 
